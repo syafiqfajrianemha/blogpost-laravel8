@@ -23,7 +23,7 @@ Follow this instructions to install the project:
 6. Set **database config** on `.env` file
 7. `$ php artisan migrate`
 8. `$ php artisan serve`
-9. Open `https://localhost:8000` with browser.
+9. Open `http://localhost:8000` with browser.
 
 ## License
 
